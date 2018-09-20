@@ -1,5 +1,23 @@
 ## Pre Bitiya learning Status
 
+### Sept 19, 2018
+* [ ] Learning Ada-Boost & Random Forest Algo.
+* [x] Configured Mycroft with Device and used all basic available skills.
+* [x] Exploring Docs to code the first basic Skils.
+
+### Sept 18, 2018
+* [x] Learnt KNN Algorithm.
+* [x] Implemented it using sklearn, basic exercise.
+* [x] Checking accurecy of all Four Classifier Algos on same data.
+
+### Sept 17, 2018
+* [x] Learnt Decision Tree algorithm.
+* [x] Implemented it using sklearn, basic exercise.
+
+### Sept 16, 2018
+* [x] Learnt Naive Bayes , SVM algo.
+* [x] Implemented it using sklearn, basic exercise.
+
 ### Sept 15, 2018
 * [x] More Python Basics Concepts.
 * [x] Continue Learning the ML Course with exercises and coding.
