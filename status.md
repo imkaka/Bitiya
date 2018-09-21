@@ -1,5 +1,13 @@
 ## Pre Bitiya learning Status
 
+### Sept 21, 2018
+* [x] Built and Tested a Hello World Mycroft Skill.
+* [x] Learnt Numpy, basic pandas, matplot lib.
+
+### Sept 20, 2018
+* [x] Python Closure, Decorators, partial func , Code Introspection.
+* [x] Learnt the Important Topics(Code).[Numpy](http://cs231n.github.io/python-numpy-tutorial/)
+
 ### Sept 19, 2018
 * [ ] Learning Ada-Boost & Random Forest Algo.
 * [x] Configured Mycroft with Device and used all basic available skills.
