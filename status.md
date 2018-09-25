@@ -12,7 +12,7 @@
 
 ### Sept 22, 2018
 * [x] Exploring More of Mycroft Docs about its Components
-* [x] Learning Python File Handelling, Exception Handelling
+* [x] Revised Python File Handelling, Exception Handelling
 * [x] More on Pandas, matplotlib
 
 ### Sept 21, 2018
