@@ -1,5 +1,14 @@
 ## Pre Bitiya learning Status
 
+### Sept 26, 2018
+* [x] Implemented a Sentiment Classifier using graphlab to predict Positive/Negative Rating on Amazon Products.
+* [x] Learnt Some ways to handle the missing Values in dataset using pandas and sklearn.
+* [x] Trying to implement a skill of mycroft which can take picture.
+
+### Sept 25, 2018
+* [x] Completed coding a Classifier for Predicting Loan with 82% Accurecy(80/20%) and 100% at (84/16%) Test-Train divisin.
+* [x] Continuing with Udacity ML Course
+
 ### Sept 24, 2018
 * [x] Read about word2vector.
 * [x] Coding more on Python using ML libs on random datasets.

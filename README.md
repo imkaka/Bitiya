@@ -10,4 +10,4 @@ Pre Bitiya-  Learn and Upload the Code!!
 - [Isha Srivastava](https://github.com/ishha100/Bitiya/blob/master/status.md "Isha")
 - [Vivek Verma](https://github.com/coolbudy1998/Bitiya/blob/master/status.md "Vivek")
 - [Rajat Raj](https://github.com/FantasticRajat/Bitiya/blob/master/status.md "Rajat")
-- [Vikas Yadav](https://github.com/yvik/Bitiya/blob/master/status.md)
+- [Vikas Yadav](https://github.com/yvik/Bitiya/blob/master/status.md "Vikas")
