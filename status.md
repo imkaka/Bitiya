@@ -4,8 +4,7 @@
 
 ### Oct 11, 2018
 * [x] Started Learning Tokenizing words and Sentences using nltk.
-* [x] Exploring Spicy and Rasa NLU.
-* [x] Started Spicy.
+* [x] Exploring spaCy and Rasa NLU.
 
 ### Oct 2 - 10, 2018
 * [x] Travelled to Hyderabad for PyCon India 2018
